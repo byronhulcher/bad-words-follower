@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/ashleygwilliams/bad-words-follower#readme",
   "dependencies": {
-    "badwords": "^1.0.0",
     "concurrent-couch-follower": "^1.1.0",
     "request": "^2.72.0"
   }
