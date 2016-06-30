@@ -1,1 +1,1290 @@
-[]
+[
+  {
+    "name": "lolqueue",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "css-slap-chop",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "s4",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "asyncStorage",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "underdash",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "fam.js",
+    "words": [
+      "fucked",
+      "fuck"
+    ]
+  },
+  {
+    "name": "ender-swig",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "pitboss",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "util-ext",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "guil",
+    "words": [
+      "fucking",
+      "fucking"
+    ]
+  },
+  {
+    "name": "square-wiiv",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "sanitize-arguments",
+    "words": [
+      "fucks"
+    ]
+  },
+  {
+    "name": "milestonejs",
+    "words": [
+      "fuckin",
+      "fuckin",
+      "fuckin",
+      "fuckin"
+    ]
+  },
+  {
+    "name": "grunt-bb-generate",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "she",
+    "words": [
+      "fucking",
+      "fucking"
+    ]
+  },
+  {
+    "name": "facebook-open-graph",
+    "words": [
+      "fucker"
+    ]
+  },
+  {
+    "name": "kyu-s",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "html-lang",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "fuck_grunt",
+    "words": [
+      "fuck_grunt",
+      "fuck_grunt",
+      "fuck_grunt"
+    ]
+  },
+  {
+    "name": "result-type",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "array-splice",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "rex-shell",
+    "words": [
+      "fucked"
+    ]
+  },
+  {
+    "name": "blob-to-regexp",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "grumpp",
+    "words": [
+      "fucking",
+      "fucking"
+    ]
+  },
+  {
+    "name": "domthen",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "proto-star",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "wiiv-square",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "vaultinator",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "sandbox-extended",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "lies",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "regret",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "sip-client",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "oskar",
+    "words": [
+      "fuckery"
+    ]
+  },
+  {
+    "name": "connect-mongolotion",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "argp",
+    "words": [
+      "brainfuck",
+      "brainfuck",
+      "brainfuck",
+      "Brainfuck"
+    ]
+  },
+  {
+    "name": "v8plus",
+    "words": [
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "neith-brainfuck",
+    "words": [
+      "Brainfuck",
+      "Brainfuck"
+    ]
+  },
+  {
+    "name": "peento-blog",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "bearbone",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "brainfuckme",
+    "words": [
+      "Brainfuckme",
+      "brainfuckme",
+      "brainfuckme",
+      "Brainfuckme",
+      "brainfuckme",
+      "brainfuckme",
+      "brainfuckme",
+      "Brainfuckme",
+      "Brainfuckme",
+      "brainfuckme"
+    ]
+  },
+  {
+    "name": "cluster-fuck",
+    "words": [
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "to-titlelize",
+    "words": [
+      "motherfucker",
+      "Motherfucker"
+    ]
+  },
+  {
+    "name": "hubot-dinner",
+    "words": [
+      "whatthefuckshouldimakefordinner",
+      "fucking"
+    ]
+  },
+  {
+    "name": "ftybr",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "npm-heat-cache",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "hydrator",
+    "words": [
+      "howthefuckdoitar",
+      "howthefuckdoitar"
+    ]
+  },
+  {
+    "name": "furkan",
+    "words": [
+      "fuckin",
+      "fuckin",
+      "fuckin",
+      "fuckin"
+    ]
+  },
+  {
+    "name": "foaas-client",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "intaglio",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "http-image-size",
+    "words": [
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "meh",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "supercli",
+    "words": [
+      "fucked"
+    ]
+  },
+  {
+    "name": "norfuck",
+    "words": [
+      "norfuck"
+    ]
+  },
+  {
+    "name": "pagelang",
+    "words": [
+      "Brainfuck"
+    ]
+  },
+  {
+    "name": "ahhhh",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "najtingalo",
+    "words": [
+      "Brainfuck",
+      "Brainfuck",
+      "Brainfuck"
+    ]
+  },
+  {
+    "name": "profanity65",
+    "words": [
+      "fuck",
+      "motherfucking",
+      "fuck",
+      "dumbfuck",
+      "fucker",
+      "fuck",
+      "fuck",
+      "motherfucker",
+      "motherfucker",
+      "fuck",
+      "fucking",
+      "dumbfuck",
+      "fuckwad",
+      "fuck",
+      "fucking",
+      "motherfucker",
+      "dumbfuck",
+      "dumbfuck",
+      "fuck",
+      "dumbfuck",
+      "motherfucker",
+      "fuckwad",
+      "dumbfuck",
+      "dumbfuck",
+      "fucking",
+      "motherfucking",
+      "fucking",
+      "motherfucking",
+      "fucker"
+    ]
+  },
+  {
+    "name": "brofist-browser",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "brofist-tap",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "buddy-tap",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "cassie",
+    "words": [
+      "clusterfuck"
+    ]
+  },
+  {
+    "name": "ffs",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "forge",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "jenga",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "clusterfuck",
+    "words": [
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck",
+      "clusterfuck"
+    ]
+  },
+  {
+    "name": "buddy-browser",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "ekho",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "fuck-win-service",
+    "words": [
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "conventional",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "brainfuck2000",
+    "words": [
+      "brainfuck",
+      "brainfuck",
+      "brainfuck2000",
+      "brainfuck"
+    ]
+  },
+  {
+    "name": "worklight-build",
+    "words": [
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "hubot-lying-cat",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "es6-node-iterator",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "brainless",
+    "words": [
+      "Brainfuck",
+      "Brainfuck",
+      "brainfuck",
+      "brainfuck",
+      "brainfuck",
+      "Brainfuck",
+      "brainfuck"
+    ]
+  },
+  {
+    "name": "bfjs",
+    "words": [
+      "brainfuck"
+    ]
+  },
+  {
+    "name": "localize.js",
+    "words": [
+      "fucks"
+    ]
+  },
+  {
+    "name": "z-localize",
+    "words": [
+      "fucks"
+    ]
+  },
+  {
+    "name": "canihaz",
+    "words": [
+      "fucked"
+    ]
+  },
+  {
+    "name": "readystate",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "square",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "zoidberg",
+    "words": [
+      "fuck",
+      "fucking"
+    ]
+  },
+  {
+    "name": "kju",
+    "words": [
+      "fucked"
+    ]
+  },
+  {
+    "name": "idiocy-indicator",
+    "words": [
+      "fuckin"
+    ]
+  },
+  {
+    "name": "tflobby",
+    "words": [
+      "muddafuckas"
+    ]
+  },
+  {
+    "name": "hubot-seinfeld",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "arrgh.js",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "fucks",
+    "words": [
+      "fucks",
+      "fuck",
+      "fucks",
+      "fuck",
+      "fuck",
+      "fucks",
+      "fucks",
+      "fucks"
+    ]
+  },
+  {
+    "name": "grunt-macreload",
+    "words": [
+      "fuckyeah"
+    ]
+  },
+  {
+    "name": "dalkomsft",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "quote-mf",
+    "words": [
+      "motherfucker"
+    ]
+  },
+  {
+    "name": "require-packages",
+    "words": [
+      "motherfucker",
+      "motherfucker"
+    ]
+  },
+  {
+    "name": "bee.js",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "koa-notifier",
+    "words": [
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "badge-list",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "js-format",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "brnfckr",
+    "words": [
+      "brainfuck",
+      "brainfuck",
+      "brainfuck",
+      "brainfuck"
+    ]
+  },
+  {
+    "name": "brainfuck-compiler",
+    "words": [
+      "Brainfuck",
+      "Brainfuck",
+      "brainfuck",
+      "Brainfuck"
+    ]
+  },
+  {
+    "name": "brainfuckhg",
+    "words": [
+      "BrainfuckHG",
+      "Brainfuck",
+      "brainfuckhg",
+      "BrainfuckHG",
+      "Brainfuck",
+      "brainfuckhg",
+      "Brainfuck"
+    ]
+  },
+  {
+    "name": "autoincrement",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "eoo",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "fuck-comma",
+    "words": [
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuckComma",
+      "fuckComma",
+      "fuckComma"
+    ]
+  },
+  {
+    "name": "basketball-reference",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "fuckup",
+    "words": [
+      "fuckup",
+      "fuckup",
+      "fuckup",
+      "fuckup",
+      "fuckup",
+      "fuckup",
+      "fuckup",
+      "fuckup"
+    ]
+  },
+  {
+    "name": "braincrunch",
+    "words": [
+      "Brainfuck",
+      "Brainfuck",
+      "brainfuck",
+      "Brainfuck"
+    ]
+  },
+  {
+    "name": "react-mixin-helper",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "promise_tim",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "lijsp",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "hubot-reactgif",
+    "words": [
+      "fuck",
+      "fucks"
+    ]
+  },
+  {
+    "name": "blabot-core",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "cloudpt",
+    "words": [
+      "fuckYeah"
+    ]
+  },
+  {
+    "name": "coleman-dispatcher",
+    "words": [
+      "fucking",
+      "fucked"
+    ]
+  },
+  {
+    "name": "fuck-jsx",
+    "words": [
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "gulp-jsfuck",
+    "words": [
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck"
+    ]
+  },
+  {
+    "name": "mark-doc",
+    "words": [
+      "fuckup"
+    ]
+  },
+  {
+    "name": "bennu",
+    "words": [
+      "Brainfuck",
+      "Brainfuck"
+    ]
+  },
+  {
+    "name": "dataio",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "baldrick",
+    "words": [
+      "fucked"
+    ]
+  },
+  {
+    "name": "fuckyou",
+    "words": [
+      "fuckyou",
+      "fuckyou",
+      "fuckyou",
+      "fuckyou",
+      "fuckyou",
+      "fuckyou",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "generator-eggs-genny",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "lifeofcat",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "brainfuckifyjs",
+    "words": [
+      "Brainfuckifyjs",
+      "brainfuckify",
+      "Brainfuck",
+      "brainfuckifyjs",
+      "brainfuckifyjs",
+      "brainfuckify"
+    ]
+  },
+  {
+    "name": "8art",
+    "words": [
+      "fuckin"
+    ]
+  },
+  {
+    "name": "expirable",
+    "words": [
+      "motherfucker"
+    ]
+  },
+  {
+    "name": "tinymusic",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "gnocchi",
+    "words": [
+      "motherfucker"
+    ]
+  },
+  {
+    "name": "brainfuck.js",
+    "words": [
+      "brainfuck",
+      "brainfuck",
+      "Brainfuck",
+      "brainfuck"
+    ]
+  },
+  {
+    "name": "hubot-awyisser",
+    "words": [
+      "fuckin"
+    ]
+  },
+  {
+    "name": "tooly",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "tgi-interface-createjs",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "jevent",
+    "words": [
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "console.fuck",
+    "words": [
+      "fuck",
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "chainable-object",
+    "words": [
+      "motherfucker",
+      "motherfucker",
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "hubot-gif",
+    "words": [
+      "nofucks"
+    ]
+  },
+  {
+    "name": "fuckwinfsdel",
+    "words": [
+      "fuckwinfsdel"
+    ]
+  },
+  {
+    "name": "jsfuck",
+    "words": [
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck"
+    ]
+  },
+  {
+    "name": "tictactoe.js",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "vk-music",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "bdblock",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "hockey-helper",
+    "words": [
+      "fuckneulionv2",
+      "fuckneulionv2"
+    ]
+  },
+  {
+    "name": "cleverbot-irc",
+    "words": [
+      "fucked"
+    ]
+  },
+  {
+    "name": "git-kit",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "adamjc-sandbox",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "binc",
+    "words": [
+      "thefuck"
+    ]
+  },
+  {
+    "name": "glob-to-regexp",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "hubot-watcher",
+    "words": [
+      "fucking",
+      "fucking"
+    ]
+  },
+  {
+    "name": "redefine",
+    "words": [
+      "brainfuck"
+    ]
+  },
+  {
+    "name": "sandbox",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "grunt-jsfuck",
+    "words": [
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck"
+    ]
+  },
+  {
+    "name": "@johno/gk",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "profanity-pgp",
+    "words": [
+      "fuck",
+      "motherfucking",
+      "fuck",
+      "dumbfuck",
+      "fucker",
+      "fuck",
+      "fuck",
+      "motherfucker",
+      "motherfucker",
+      "fuck",
+      "fucking",
+      "dumbfuck",
+      "fuckwad",
+      "fuck",
+      "fucking",
+      "motherfucker",
+      "dumbfuck",
+      "dumbfuck",
+      "fuck",
+      "dumbfuck",
+      "motherfucker",
+      "fuckwad",
+      "dumbfuck",
+      "dumbfuck",
+      "fucking",
+      "motherfucking",
+      "fucking",
+      "motherfucking",
+      "fucker"
+    ]
+  },
+  {
+    "name": "caption",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "tutoaster",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "gulp-angular-components",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "slush-angular-components",
+    "words": [
+      "fucking",
+      "fuck"
+    ]
+  },
+  {
+    "name": "exp-parser",
+    "words": [
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "compozecli",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "cmpz",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "virtual-select",
+    "words": [
+      "twofuckingdevelopers"
+    ]
+  },
+  {
+    "name": "parsetime",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "brainfuck-javascript",
+    "words": [
+      "brainfuck",
+      "brainfuck",
+      "brainfuck",
+      "brainfuck",
+      "Brainfuck",
+      "brainfuck",
+      "Brainfuck",
+      "Brainfuck",
+      "brainfuck",
+      "brainfuck"
+    ]
+  },
+  {
+    "name": "alexa-uncensor",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "eslint-plugin-tdd",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "greshunkel",
+    "words": [
+      "fuck"
+    ]
+  },
+  {
+    "name": "fuck-shit-up",
+    "words": [
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuckShitUp",
+      "fuckShitUp",
+      "fucking",
+      "fucking",
+      "fuck",
+      "fucking",
+      "fuckShitUp",
+      "fuckShitUp"
+    ]
+  },
+  {
+    "name": "fuck-you",
+    "words": [
+      "fuck",
+      "fuck",
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "corsair-rgb",
+    "words": [
+      "fuck",
+      "fucking"
+    ]
+  },
+  {
+    "name": "chai-51st-state",
+    "words": [
+      "fucking",
+      "fucking"
+    ]
+  },
+  {
+    "name": "mantis-querist",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "jssuck",
+    "words": [
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck",
+      "jsfuck"
+    ]
+  },
+  {
+    "name": "destupidify",
+    "words": [
+      "fucking"
+    ]
+  },
+  {
+    "name": "angular-errorlookup",
+    "words": [
+      "fucker",
+      "clusterfuck",
+      "fuck",
+      "fuck"
+    ]
+  },
+  {
+    "name": "dialog-router-api",
+    "words": [
+      "fuck"
+    ]
+  }
+]

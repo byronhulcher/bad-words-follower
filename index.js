@@ -8,8 +8,13 @@ const db = 'https://replicate.npmjs.com';
 
 
 var replacer = function(key, value){
-    // replaces all escaped newline characters
-    return !!value && typeof(value) === 'string' ? value.replace(/(\\r\\n)|(\\n\\r)|(\\n)|(\\r)|(\\t)/g,"") : "";
+  // replaces escaped whitespace  characters
+  if (!!value && typeof(value) === 'string'){
+    return value
+      .replace(/(\\r\\n)|(\\n\\r)|(\\n)|(\\r)|(\\t)/g," ")
+      .replace(/(\r\n)|(\n\r)|(\n)|(\r)|(\t)/g, " ");
+  }
+  return "";
 }
 
 Request.get(db, function(err, req, body) {
@@ -21,17 +26,11 @@ Request.get(db, function(err, req, body) {
       process.exit(0);
     }
     if (change.doc.name && change.doc.readme) {
-    //   console.log("checking: " + change.doc.name);
+      console.log("Checking:",  change.doc.name);
       for(var i = 0; i < bad_words.length; i++) {
         var matches = JSON.stringify(change.doc.readme, replacer).match(bad_words[i]);
         if (matches) {
-          console.log("found: ", matches);
-          if (matches.indexOf("nBrainfuckme") >= 0){
-              console.log("FOUND IT!")
-              console.log(change.doc)
-              throw new Error();
-          }
-          
+          console.log("Found on " + change.doc.name + ":", matches);
           var hit = {
             "name":  change.doc.name,
             "words": matches

@@ -6,6 +6,7 @@ var count = function(ary, classifier) {
   return ary.reduce(function(counter, item) {
     var words = (classifier || String)(item);
     words.map(function(value, index){
+        value = value.toLowerCase(value);
         counter[value] = counter.hasOwnProperty(value) ? counter[value] + 1 : 1;
     })
     
